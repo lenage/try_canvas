@@ -65,3 +65,7 @@ function drawClock(){
 // Initialization ....................
 context.font = FONT_HEIGHT + 'px Arial';
 loop = setInterval(drawClock, 1000);
+context.beginPath();
+context.moveTo(150,50);
+context.lineTo(220, 250);
+context.lineTo(220, 300);

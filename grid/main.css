@@ -1,0 +1,10 @@
+body {
+  background-color: #fff;
+  text-align: center;
+}
+
+#demo {
+  margin: 10px auto;
+  padding: 10px;
+  background: #fff;
+}
